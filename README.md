@@ -1,4 +1,4 @@
-# Blog  :link: https://HBXG-ZEWEN.github.io/lzwen.github.io 
+# Blog  :link: https://HBXG-ZEWEN.github.io/blog.github.io 
 ### :page_facing_up: [1](https://HBXG-ZEWEN.github.io/blog.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 5 
